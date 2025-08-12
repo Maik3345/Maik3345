@@ -39,7 +39,7 @@ A set of tools and scripts for TypeScript projects, focused on developer product
 - VS Code Extensions
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/maikrestrepo/)
+- [LinkedIn](https://www.linkedin.com/in/michael-restrepo-9449a9114/)
 - [GitHub](https://github.com/Maik3345)
 
 ---
