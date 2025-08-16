@@ -43,9 +43,3 @@ A set of tools and scripts for TypeScript projects, focused on developer product
 - [GitHub](https://github.com/Maik3345)
 
 ---
-
-> "Code is meant to be shared, improved, and enjoyed."
-
----
-
-_This is my profile README. Check out my repositories for more!_
